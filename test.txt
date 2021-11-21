@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 empty test
 newstuff
+=======
+main test
+just to fuck you up
+>>>>>>> main
